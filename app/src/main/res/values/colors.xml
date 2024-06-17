@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FF9800</color>
+    <color name="ab">#202020</color>
+    <color name="gray">#4C4C4C</color>
+    <color name="darkgray">#4C4C4C</color>
+    <color name="medyopinkk">#FF2727</color>
+</resources>
